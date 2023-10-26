@@ -12,4 +12,4 @@
 
 [Random](Random/)
 
-[Spring-mysql-docker](../SpringBoot-project/Spring-mysql-docker/) - Spring, doker, Mysql
+[Spring-mysql-docker](Spring-mysql-docker/) - Spring, doker, Mysql
