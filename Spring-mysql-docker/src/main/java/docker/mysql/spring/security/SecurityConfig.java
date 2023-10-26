@@ -34,6 +34,7 @@ public class SecurityConfig {
         return jdbcUserDetailsManager;
     }
 
+
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
 
@@ -45,6 +46,7 @@ public class SecurityConfig {
                         .requestMatchers(HttpMethod.PUT, "/api/employees").hasRole("MANAGER")
                         .requestMatchers(HttpMethod.DELETE, "/api/employees/**").hasRole("ADMIN")
                         .requestMatchers(HttpMethod.GET, "/api/persons").hasRole("EMPLOYEE")
+                        .requestMatchers(HttpMethod.GET, "/hello").hasRole("EMPLOYEE")
         );
 
         // use HTTP Basic authentication
