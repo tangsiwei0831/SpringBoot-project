@@ -9,9 +9,8 @@
 
 [RESTAPI-advanced](https://spring.academy/courses/building-a-rest-api-with-spring-boot)
 
+[Random](Random/)
 
-[Random](../SpringBoot-project/Random/)
+[Spring-mysql-docker](Spring-mysql-docker/)
 
-[Spring-mysql-docker](../SpringBoot-project/Spring-mysql-docker/) - Spring, doker, Mysql
-
-[wiremock-demo](https://medium.com/cuddle-ai/testing-spring-boot-application-using-wiremock-and-junit-5-d514a47ab931)
+[WireMock-demo](https://medium.com/cuddle-ai/testing-spring-boot-application-using-wiremock-and-junit-5-d514a47ab931)
