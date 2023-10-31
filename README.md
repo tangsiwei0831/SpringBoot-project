@@ -18,3 +18,5 @@
 [WireMock-workshop](https://github.com/basdijkstra/wiremock-workshop)
 
 [MVC](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
+
+[Security-Thymeleaf](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
