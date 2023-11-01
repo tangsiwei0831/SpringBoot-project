@@ -20,3 +20,5 @@
 [MVC](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
 
 [Security-Thymeleaf](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
+
+[JPA-advanced](https://telusdia.udemy.com/course/spring-hibernate-tutorial/learn/lecture/38513632#overview)
