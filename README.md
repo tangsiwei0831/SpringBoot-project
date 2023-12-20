@@ -24,5 +24,3 @@
 [JPA-advanced](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
 
 [spring-boot-mvc-crud-demo-employees](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
-
-[JPA-advanced](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners/tree/main)
